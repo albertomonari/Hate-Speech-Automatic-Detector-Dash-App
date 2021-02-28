@@ -36,6 +36,3 @@ traitlets==4.3.2
 Werkzeug==0.15.4
 seaborn
 sklearn
-string
-re
-warnings
