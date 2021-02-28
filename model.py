@@ -1,6 +1,6 @@
 import string
 import nltk
-#nltk.download('vader_lexicon')
+nltk.download('vader_lexicon')
 import pandas as pd
 import numpy as np
 from textstat.textstat import *
